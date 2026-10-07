@@ -1,0 +1,762 @@
+{
+  "version": 1,
+  "images": {
+    "banners/caisangzi-chongyang.jpg": {
+      "width": 650,
+      "height": 204,
+      "revision": "2d73ad27fbb452bb3370",
+      "variants": [
+        {
+          "src": "_optimized/2d73ad27fbb452bb3370-64.webp",
+          "width": 64,
+          "height": 20
+        },
+        {
+          "src": "_optimized/2d73ad27fbb452bb3370-128.webp",
+          "width": 128,
+          "height": 40
+        },
+        {
+          "src": "_optimized/2d73ad27fbb452bb3370-320.webp",
+          "width": 320,
+          "height": 100
+        },
+        {
+          "src": "_optimized/2d73ad27fbb452bb3370-640.webp",
+          "width": 640,
+          "height": 201
+        },
+        {
+          "src": "_optimized/2d73ad27fbb452bb3370-650.webp",
+          "width": 650,
+          "height": 204
+        }
+      ]
+    },
+    "banners/Ceylon.jpg": {
+      "width": 1280,
+      "height": 791,
+      "revision": "ac2b8ce61d23acbefa54",
+      "variants": [
+        {
+          "src": "_optimized/ac2b8ce61d23acbefa54-64.webp",
+          "width": 64,
+          "height": 39
+        },
+        {
+          "src": "_optimized/ac2b8ce61d23acbefa54-128.webp",
+          "width": 128,
+          "height": 78
+        },
+        {
+          "src": "_optimized/ac2b8ce61d23acbefa54-320.webp",
+          "width": 320,
+          "height": 198
+        },
+        {
+          "src": "_optimized/ac2b8ce61d23acbefa54-640.webp",
+          "width": 640,
+          "height": 396
+        },
+        {
+          "src": "_optimized/ac2b8ce61d23acbefa54-960.webp",
+          "width": 960,
+          "height": 593
+        },
+        {
+          "src": "_optimized/ac2b8ce61d23acbefa54-1280.webp",
+          "width": 1280,
+          "height": 791
+        }
+      ]
+    },
+    "banners/coding.png": {
+      "width": 1280,
+      "height": 704,
+      "revision": "d617e707a83bab2684e7",
+      "variants": [
+        {
+          "src": "_optimized/d617e707a83bab2684e7-64.webp",
+          "width": 64,
+          "height": 35
+        },
+        {
+          "src": "_optimized/d617e707a83bab2684e7-128.webp",
+          "width": 128,
+          "height": 70
+        },
+        {
+          "src": "_optimized/d617e707a83bab2684e7-320.webp",
+          "width": 320,
+          "height": 176
+        },
+        {
+          "src": "_optimized/d617e707a83bab2684e7-640.webp",
+          "width": 640,
+          "height": 352
+        },
+        {
+          "src": "_optimized/d617e707a83bab2684e7-960.webp",
+          "width": 960,
+          "height": 528
+        },
+        {
+          "src": "_optimized/d617e707a83bab2684e7-1280.webp",
+          "width": 1280,
+          "height": 704
+        }
+      ]
+    },
+    "banners/css.jpg": {
+      "width": 1280,
+      "height": 853,
+      "revision": "a963118dabe8721ff6ce",
+      "variants": [
+        {
+          "src": "_optimized/a963118dabe8721ff6ce-64.webp",
+          "width": 64,
+          "height": 42
+        },
+        {
+          "src": "_optimized/a963118dabe8721ff6ce-128.webp",
+          "width": 128,
+          "height": 85
+        },
+        {
+          "src": "_optimized/a963118dabe8721ff6ce-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "_optimized/a963118dabe8721ff6ce-640.webp",
+          "width": 640,
+          "height": 427
+        },
+        {
+          "src": "_optimized/a963118dabe8721ff6ce-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "src": "_optimized/a963118dabe8721ff6ce-1280.webp",
+          "width": 1280,
+          "height": 853
+        }
+      ]
+    },
+    "banners/hexinlang-dushi.webp": {
+      "width": 1375,
+      "height": 1080,
+      "revision": "2a1bc8c8a55b81a04a98",
+      "variants": [
+        {
+          "src": "_optimized/2a1bc8c8a55b81a04a98-64.webp",
+          "width": 64,
+          "height": 50
+        },
+        {
+          "src": "_optimized/2a1bc8c8a55b81a04a98-128.webp",
+          "width": 128,
+          "height": 101
+        },
+        {
+          "src": "_optimized/2a1bc8c8a55b81a04a98-320.webp",
+          "width": 320,
+          "height": 251
+        },
+        {
+          "src": "_optimized/2a1bc8c8a55b81a04a98-640.webp",
+          "width": 640,
+          "height": 503
+        },
+        {
+          "src": "_optimized/2a1bc8c8a55b81a04a98-960.webp",
+          "width": 960,
+          "height": 754
+        },
+        {
+          "src": "banners/hexinlang-dushi.webp",
+          "width": 1375,
+          "height": 1080
+        }
+      ]
+    },
+    "banners/keyboard.webp": {
+      "width": 1280,
+      "height": 720,
+      "revision": "a48078809b641423528d",
+      "variants": [
+        {
+          "src": "_optimized/a48078809b641423528d-64.webp",
+          "width": 64,
+          "height": 36
+        },
+        {
+          "src": "_optimized/a48078809b641423528d-128.webp",
+          "width": 128,
+          "height": 72
+        },
+        {
+          "src": "_optimized/a48078809b641423528d-320.webp",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "src": "_optimized/a48078809b641423528d-640.webp",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "src": "_optimized/a48078809b641423528d-960.webp",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "src": "_optimized/a48078809b641423528d-1280.webp",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    "banners/note.jpg": {
+      "width": 1280,
+      "height": 853,
+      "revision": "12d1c947b1ab4bdd58ef",
+      "variants": [
+        {
+          "src": "_optimized/12d1c947b1ab4bdd58ef-64.webp",
+          "width": 64,
+          "height": 42
+        },
+        {
+          "src": "_optimized/12d1c947b1ab4bdd58ef-128.webp",
+          "width": 128,
+          "height": 85
+        },
+        {
+          "src": "_optimized/12d1c947b1ab4bdd58ef-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "_optimized/12d1c947b1ab4bdd58ef-640.webp",
+          "width": 640,
+          "height": 427
+        },
+        {
+          "src": "_optimized/12d1c947b1ab4bdd58ef-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "src": "_optimized/12d1c947b1ab4bdd58ef-1280.webp",
+          "width": 1280,
+          "height": 853
+        }
+      ]
+    },
+    "banners/reader.jpg": {
+      "width": 1280,
+      "height": 853,
+      "revision": "19282dbbd818277d642d",
+      "variants": [
+        {
+          "src": "_optimized/19282dbbd818277d642d-64.webp",
+          "width": 64,
+          "height": 42
+        },
+        {
+          "src": "_optimized/19282dbbd818277d642d-128.webp",
+          "width": 128,
+          "height": 85
+        },
+        {
+          "src": "_optimized/19282dbbd818277d642d-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "_optimized/19282dbbd818277d642d-640.webp",
+          "width": 640,
+          "height": 427
+        },
+        {
+          "src": "_optimized/19282dbbd818277d642d-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "src": "_optimized/19282dbbd818277d642d-1280.webp",
+          "width": 1280,
+          "height": 853
+        }
+      ]
+    },
+    "banners/seo.jpg": {
+      "width": 1280,
+      "height": 850,
+      "revision": "4faffacef1ac2c03855a",
+      "variants": [
+        {
+          "src": "_optimized/4faffacef1ac2c03855a-64.webp",
+          "width": 64,
+          "height": 42
+        },
+        {
+          "src": "_optimized/4faffacef1ac2c03855a-128.webp",
+          "width": 128,
+          "height": 85
+        },
+        {
+          "src": "_optimized/4faffacef1ac2c03855a-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "_optimized/4faffacef1ac2c03855a-640.webp",
+          "width": 640,
+          "height": 425
+        },
+        {
+          "src": "_optimized/4faffacef1ac2c03855a-960.webp",
+          "width": 960,
+          "height": 638
+        },
+        {
+          "src": "_optimized/4faffacef1ac2c03855a-1280.webp",
+          "width": 1280,
+          "height": 850
+        }
+      ]
+    },
+    "banners/%E4%B8%BB%E9%A1%B5.jpg": {
+      "width": 1280,
+      "height": 853,
+      "revision": "0bf84fde7b2e6adc821a",
+      "variants": [
+        {
+          "src": "_optimized/0bf84fde7b2e6adc821a-64.webp",
+          "width": 64,
+          "height": 42
+        },
+        {
+          "src": "_optimized/0bf84fde7b2e6adc821a-128.webp",
+          "width": 128,
+          "height": 85
+        },
+        {
+          "src": "_optimized/0bf84fde7b2e6adc821a-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "_optimized/0bf84fde7b2e6adc821a-640.webp",
+          "width": 640,
+          "height": 427
+        },
+        {
+          "src": "_optimized/0bf84fde7b2e6adc821a-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "src": "_optimized/0bf84fde7b2e6adc821a-1280.webp",
+          "width": 1280,
+          "height": 853
+        }
+      ]
+    },
+    "banners/%E5%92%B8%E9%B1%BC.jpg": {
+      "width": 1280,
+      "height": 646,
+      "revision": "fbfa74d825392e6ca7f6",
+      "variants": [
+        {
+          "src": "_optimized/fbfa74d825392e6ca7f6-64.webp",
+          "width": 64,
+          "height": 32
+        },
+        {
+          "src": "_optimized/fbfa74d825392e6ca7f6-128.webp",
+          "width": 128,
+          "height": 64
+        },
+        {
+          "src": "_optimized/fbfa74d825392e6ca7f6-320.webp",
+          "width": 320,
+          "height": 162
+        },
+        {
+          "src": "_optimized/fbfa74d825392e6ca7f6-640.webp",
+          "width": 640,
+          "height": 323
+        },
+        {
+          "src": "_optimized/fbfa74d825392e6ca7f6-960.webp",
+          "width": 960,
+          "height": 485
+        },
+        {
+          "src": "_optimized/fbfa74d825392e6ca7f6-1280.webp",
+          "width": 1280,
+          "height": 646
+        }
+      ]
+    },
+    "banners/%E7%93%B6%E5%AD%90%E9%87%8C%E7%9A%84%E9%B1%BC.jpg": {
+      "width": 1280,
+      "height": 720,
+      "revision": "00938a61dd90d8dbac87",
+      "variants": [
+        {
+          "src": "_optimized/00938a61dd90d8dbac87-64.webp",
+          "width": 64,
+          "height": 36
+        },
+        {
+          "src": "_optimized/00938a61dd90d8dbac87-128.webp",
+          "width": 128,
+          "height": 72
+        },
+        {
+          "src": "_optimized/00938a61dd90d8dbac87-320.webp",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "src": "_optimized/00938a61dd90d8dbac87-640.webp",
+          "width": 640,
+          "height": 360
+        },
+        {
+          "src": "_optimized/00938a61dd90d8dbac87-960.webp",
+          "width": 960,
+          "height": 540
+        },
+        {
+          "src": "_optimized/00938a61dd90d8dbac87-1280.webp",
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    "banners/%E7%A6%81%E6%AD%A2%E5%81%9C%E8%BD%A6.jpg": {
+      "width": 1280,
+      "height": 905,
+      "revision": "3f34e4a6db068bbff0a4",
+      "variants": [
+        {
+          "src": "_optimized/3f34e4a6db068bbff0a4-64.webp",
+          "width": 64,
+          "height": 45
+        },
+        {
+          "src": "_optimized/3f34e4a6db068bbff0a4-128.webp",
+          "width": 128,
+          "height": 90
+        },
+        {
+          "src": "_optimized/3f34e4a6db068bbff0a4-320.webp",
+          "width": 320,
+          "height": 226
+        },
+        {
+          "src": "_optimized/3f34e4a6db068bbff0a4-640.webp",
+          "width": 640,
+          "height": 453
+        },
+        {
+          "src": "_optimized/3f34e4a6db068bbff0a4-960.webp",
+          "width": 960,
+          "height": 679
+        },
+        {
+          "src": "_optimized/3f34e4a6db068bbff0a4-1280.webp",
+          "width": 1280,
+          "height": 905
+        }
+      ]
+    },
+    "banners/%E8%AF%97.jpg": {
+      "width": 853,
+      "height": 1280,
+      "revision": "3949585bb1c405ca5e2b",
+      "variants": [
+        {
+          "src": "_optimized/3949585bb1c405ca5e2b-64.webp",
+          "width": 64,
+          "height": 97
+        },
+        {
+          "src": "_optimized/3949585bb1c405ca5e2b-128.webp",
+          "width": 128,
+          "height": 192
+        },
+        {
+          "src": "_optimized/3949585bb1c405ca5e2b-320.webp",
+          "width": 320,
+          "height": 480
+        },
+        {
+          "src": "_optimized/3949585bb1c405ca5e2b-640.webp",
+          "width": 640,
+          "height": 960
+        },
+        {
+          "src": "_optimized/3949585bb1c405ca5e2b-853.webp",
+          "width": 853,
+          "height": 1280
+        }
+      ]
+    },
+    "gutian-conference-painting.png": {
+      "width": 572,
+      "height": 342,
+      "revision": "f7c3a04581902f0dcbfc",
+      "variants": [
+        {
+          "src": "_optimized/f7c3a04581902f0dcbfc-64.webp",
+          "width": 64,
+          "height": 38
+        },
+        {
+          "src": "_optimized/f7c3a04581902f0dcbfc-128.webp",
+          "width": 128,
+          "height": 77
+        },
+        {
+          "src": "_optimized/f7c3a04581902f0dcbfc-320.webp",
+          "width": 320,
+          "height": 191
+        },
+        {
+          "src": "_optimized/f7c3a04581902f0dcbfc-572.webp",
+          "width": 572,
+          "height": 342
+        }
+      ]
+    },
+    "gutian-conference-site.jpg": {
+      "width": 1000,
+      "height": 667,
+      "revision": "35eb5f9ec4beb241a03f",
+      "variants": [
+        {
+          "src": "_optimized/35eb5f9ec4beb241a03f-64.webp",
+          "width": 64,
+          "height": 42
+        },
+        {
+          "src": "_optimized/35eb5f9ec4beb241a03f-128.webp",
+          "width": 128,
+          "height": 85
+        },
+        {
+          "src": "_optimized/35eb5f9ec4beb241a03f-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "_optimized/35eb5f9ec4beb241a03f-640.webp",
+          "width": 640,
+          "height": 427
+        },
+        {
+          "src": "_optimized/35eb5f9ec4beb241a03f-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "src": "_optimized/35eb5f9ec4beb241a03f-1000.webp",
+          "width": 1000,
+          "height": 667
+        }
+      ]
+    },
+    "pcsfish-tree-3326829.jpg": {
+      "width": 3216,
+      "height": 2136,
+      "revision": "1514509f0a08a08ee0a1",
+      "variants": [
+        {
+          "src": "_optimized/1514509f0a08a08ee0a1-64.webp",
+          "width": 64,
+          "height": 43
+        },
+        {
+          "src": "_optimized/1514509f0a08a08ee0a1-128.webp",
+          "width": 128,
+          "height": 85
+        },
+        {
+          "src": "_optimized/1514509f0a08a08ee0a1-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "_optimized/1514509f0a08a08ee0a1-640.webp",
+          "width": 640,
+          "height": 425
+        },
+        {
+          "src": "_optimized/1514509f0a08a08ee0a1-960.webp",
+          "width": 960,
+          "height": 638
+        },
+        {
+          "src": "_optimized/1514509f0a08a08ee0a1-1440.webp",
+          "width": 1440,
+          "height": 956
+        },
+        {
+          "src": "_optimized/1514509f0a08a08ee0a1-1920.webp",
+          "width": 1920,
+          "height": 1275
+        }
+      ]
+    },
+    "reader-2.0.png": {
+      "width": 2160,
+      "height": 2880,
+      "revision": "dff50077c94dbe98604e",
+      "variants": [
+        {
+          "src": "_optimized/dff50077c94dbe98604e-64.webp",
+          "width": 64,
+          "height": 85
+        },
+        {
+          "src": "_optimized/dff50077c94dbe98604e-128.webp",
+          "width": 128,
+          "height": 171
+        },
+        {
+          "src": "_optimized/dff50077c94dbe98604e-320.webp",
+          "width": 320,
+          "height": 427
+        },
+        {
+          "src": "_optimized/dff50077c94dbe98604e-640.webp",
+          "width": 640,
+          "height": 853
+        },
+        {
+          "src": "_optimized/dff50077c94dbe98604e-960.webp",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "src": "_optimized/dff50077c94dbe98604e-1440.webp",
+          "width": 1440,
+          "height": 1920
+        },
+        {
+          "src": "_optimized/dff50077c94dbe98604e-1920.webp",
+          "width": 1920,
+          "height": 2560
+        }
+      ]
+    },
+    "share-card.gif": {
+      "width": 1840,
+      "height": 890,
+      "revision": "f7b61653ca687d8b1e26",
+      "variants": [
+        {
+          "src": "_optimized/f7b61653ca687d8b1e26-64.webp",
+          "width": 64,
+          "height": 31
+        },
+        {
+          "src": "_optimized/f7b61653ca687d8b1e26-128.webp",
+          "width": 128,
+          "height": 62
+        },
+        {
+          "src": "_optimized/f7b61653ca687d8b1e26-320.webp",
+          "width": 320,
+          "height": 155
+        },
+        {
+          "src": "_optimized/f7b61653ca687d8b1e26-433.webp",
+          "width": 433,
+          "height": 209
+        }
+      ]
+    },
+    "sinhala-font-converter.png": {
+      "width": 1440,
+      "height": 960,
+      "revision": "9c9367eaf1ac7da6a12d",
+      "variants": [
+        {
+          "src": "_optimized/9c9367eaf1ac7da6a12d-64.webp",
+          "width": 64,
+          "height": 43
+        },
+        {
+          "src": "_optimized/9c9367eaf1ac7da6a12d-128.webp",
+          "width": 128,
+          "height": 85
+        },
+        {
+          "src": "_optimized/9c9367eaf1ac7da6a12d-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "_optimized/9c9367eaf1ac7da6a12d-640.webp",
+          "width": 640,
+          "height": 427
+        },
+        {
+          "src": "_optimized/9c9367eaf1ac7da6a12d-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "src": "_optimized/9c9367eaf1ac7da6a12d-1440.webp",
+          "width": 1440,
+          "height": 960
+        }
+      ]
+    },
+    "twenty-four-official-dynastic-histories.jpg": {
+      "width": 1280,
+      "height": 853,
+      "revision": "bd7e4cb364a825898a32",
+      "variants": [
+        {
+          "src": "_optimized/bd7e4cb364a825898a32-64.webp",
+          "width": 64,
+          "height": 42
+        },
+        {
+          "src": "_optimized/bd7e4cb364a825898a32-128.webp",
+          "width": 128,
+          "height": 85
+        },
+        {
+          "src": "_optimized/bd7e4cb364a825898a32-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "_optimized/bd7e4cb364a825898a32-640.webp",
+          "width": 640,
+          "height": 427
+        },
+        {
+          "src": "_optimized/bd7e4cb364a825898a32-960.webp",
+          "width": 960,
+          "height": 640
+        },
+        {
+          "src": "_optimized/bd7e4cb364a825898a32-1280.webp",
+          "width": 1280,
+          "height": 853
+        }
+      ]
+    }
+  }
+}
