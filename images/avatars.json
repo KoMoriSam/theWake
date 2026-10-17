@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "avatars": {
+    "Mori": "avatar/ayanami.webp",
+    "KoMoriSam": "avatar/ayanami.webp",
+    "OpenAI": "avatar/openai.webp",
+    "GPT-5.6": "avatar/openai.webp"
+  }
+}
